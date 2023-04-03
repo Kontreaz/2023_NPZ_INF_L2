@@ -1,8 +1,4 @@
 stoi na stacji lokomotywa
-<<<<<<< HEAD
 ciezka, ogromna i pot z niej splywa- tl oliwa
 ciuch, ciuch
 lokomotywa odjezdza
-=======
-ciezka, ogromna i pot z niej splywa- tl oliwa
->>>>>>> parent of 4c00386 (sss)
